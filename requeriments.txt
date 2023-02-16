@@ -1,1 +1,6 @@
 fastapi=0.88
+nltk
+numpy
+sklearn
+cosine_similarity
+TfidfVectorizer
