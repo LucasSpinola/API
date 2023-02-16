@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from nlp import saudacao, respostas, sent_tokens
+from api.nlp import saudacao, respostas, sent_tokens
 from typing import List, Optional
 
 app = FastAPI()
