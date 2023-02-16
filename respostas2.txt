@@ -1,0 +1,47 @@
+Este vídeo apresenta uma explicação sobre como construir uma algoritmo para verificar se uma data é válida. Ver vídeo https://youtu.be/efkb1ZsnqkQ;
+Ver o cornograma no link a seguir, veja a aba laboratório:  https://drive.google.com/file/d/1NmvN7pqTsdLAwxQpkB3cZWZJRxuhoTMI/view?usp=sharing;
+Veja o link https://drive.google.com/file/d/1NmvN7pqTsdLAwxQpkB3cZWZJRxuhoTMI/view?usp=sharing;
+Var e let são para a declaração de variáveis. Para programas maiores, com o uso de estruturas condicionais ou de repetição, por exemplo, a gente pode trabalhar com o conceito de variável global e local. Variáveis locais, a existência fica limitada a um trecho de código (escopo). Variéveis globais são acessíveis em qualquer local do código. Colocar um link explicando este conceito ?????
+Var e let são para a declaração de variáveis. Para programas maiores, com o uso de estruturas condicionais ou de repetição, por exemplo, a gente pode trabalhar com o conceito de variável global e local. Variáveis locais, a existência fica limitada a um trecho de código (escopo). Variéveis globais são acessíveis em qualquer local do código. Colocar um link explicando este conceito ?????
+Conceitos importantes sobre repetição contada, https://youtu.be/LsVCz0B-ZFg /n
+Código para desenhar, clicar e realizar animação de três botões para o menu do jogo. Uso da função 'mouseClicked()', https://youtu.be/Pk124w9q7jQ
+Precedência de operadores e o operador lógico de negação. Exemplos com a linguagem JavaScript. https://youtu.be/lDtAof67XU8 
+Colisão entre duas imagens considerando a distancia entre os centros de cada imagem, https://youtu.be/MOISoyAWwLc
+Introdução sobre implementar uma matriz em JavaScript, https://youtu.be/QoyKOQy30h8
+Trecho de Aula: Busca em um vetor, https://youtu.be/TyVwFaAwNME
+Exercício LoP: Como encontrar a maior altura entre 10 pessoas, https://youtu.be/2D_xcdTQGU8
+A motivação de usar uma função que captura um click do mouse é para garantir que apenas um botão seja acionado por click do mouse, https://youtu.be/krkETtSMnco
+Algoritmo para encontrar o melhor elemento (maior ou menor) de uma sequência, https://youtu.be/ySNbhZ0_hd8
+Exercício LoP: Cálculo da média válida, https://youtu.be/gzSFrwnVDj8
+P5JS: Adicionando um botão de voltar para o menu do jogo, https://youtu.be/NBBCDRfGEoU 
+Mais informações em: https://github.com/orivaldosantana/jogo_da_memoria_didatico
+Animação de uma explosão a partir de uma sequência de imagens e usando o conceito de vetores com vetores, https://youtu.be/a9kKjG0T5UM
+Exemplo de aplicação de uma repetição.  Explicações sobre como realizar uma contagem dentro de uma repetição. https://youtu.be/_aT_MQ38CEQ
+Exemplo de aplicação de uma repetição, validação de dados, https://youtu.be/kU1rHxwusMc
+Exercício LoP: Separar números em três vetores, https://youtu.be/2t3UlfekNqQ
+Este vídeo mostra como modificar o estilo das letras / caracteres do texto usando p5js, https://youtu.be/Npl8Lop_ulo. Mais informações ver: https://github.com/orivaldosantana/jogo_sequencia_matematica
+Demonstração de como realizar uma tokenização em python para processamento de linguagem natural com spacy. https://www.youtube.com/watch?v=q6tik4rG7xY
+Jogo da Nave no P5JS: Adicionando elementos fixos no cenário, https://www.youtube.com/watch?v=oh2I7vWVrvQ
+P5JS: Uso de vetores para controlar a descida de vários objetos na tela. https://www.youtube.com/watch?v=ft7sKRqYjTY
+Algoritmo simples para embaralhar elementos de um vetor.https://www.youtube.com/watch?v=imELwb9FtRo
+Exercício LoP: Convertendo de horas para dias. https://www.youtube.com/watch?v=moLgFIontpg 
+Breve introdução sobre Multilayer Perceptron (MLP). Código em  python e no colab com uma demonstração, implementação simples e didática do Perceptron. https://www.youtube.com/watch?v=uTi0O3tjdSM
+Acessando os dados do formulário HTML no  código JavaScript. https://www.youtube.com/watch?v=deexj9vPrL4
+P5JS Uso do Teclado. https://www.youtube.com/watch?v=C4KFQqOdLME
+Operadores Lógicos, https://www.youtube.com/watch?v=ckUFmolVOgc
+Uma breve introdução sobre operadores aritméticos. https://www.youtube.com/watch?v=or8FvL3zPLI
+Operadores Relacionais, https://www.youtube.com/watch?v=PoTZ0JG4b44
+P5JS Ponto Dentro de um Retângulo, https://www.youtube.com/watch?v=VBqD540OeKQ 
+Exemplos de como mostrar informações sobre o jogo (vidas, pontos, etc). https://www.youtube.com/watch?v=pY0i7LbOoIs
+Visual Studio Code  com Micropython, https://www.youtube.com/watch?v=oe6PQYoc-R0 
+Exercício LoP: Este vídeo apresenta uma explicação sobre como construir uma algoritmo para verificar se uma data é válida. O nível de detalhes das explicações é mediano. Apresenta uma aplicação do conceito de tipo de variável booleana.  https://www.youtube.com/watch?v=efkb1ZsnqkQ 
+Estrutura Condicional Aninhada - Teste de Intervalo, https://www.youtube.com/watch?v=B4cBpVoUC1M
+Taxa de atualização de quadros (frame rate), tela do jogo, Como contar o tempo decorrido do jogo https://www.youtube.com/watch?v=TRiK68OKTeI 
+O conteúdo deste vídeo é a resolução do exercício sobre como retirar ou marcar elementos repetidos em um vetor. https://www.youtube.com/watch?v=aTSKjNnvDyM 
+Estrutura Condicional Composta. https://www.youtube.com/watch?v=Ol5bYWoF8_8 
+O que é um algoritmo? https://www.youtube.com/watch?v=f-pe3WtJgko 
+Implementando um botão em HTML. https://www.youtube.com/watch?v=05ob6XGK1is 
+Esse vídeo apresenta os conceitos básicos para compressão de como realizar uma animação em p5js. https://www.youtube.com/watch?v=HrxecfFsQ0c 
+Este vídeo apresenta uma solução simples de como realizar disparos. https://www.youtube.com/watch?v=JteBlLGrrbY 
+A presenta uma aplicação do algoritmo de encontrar o melhor elemento de um conjunto (Algoritmo do Trono). Uso de repetição contada. https://www.youtube.com/watch?v=e34ZEPvudMU 
+Exercício LoP: Exercício na plataforma LoP com explicações sobre uma forma didática de solução do  problema de determinar se um número é primo. https://www.youtube.com/watch?v=HdkO5NeD9gc 
